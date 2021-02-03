@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **FedericoComoglio/FedericoComoglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>About me</h2>
+
+<p>Welcome! I'm Federico, a researcher and entrepreneur currently living in Bern, Switzerland.</p>
+
