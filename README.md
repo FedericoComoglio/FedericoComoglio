@@ -10,12 +10,13 @@ Here are some ideas to get you started:
 
 <h3><b>About me</b></h3>
 
-<p>I'm Federico, a researcher and entrepreneur based in <img src="https://image.flaticon.com/icons/svg/321/321167.svg" width="14"/> <b>Bern, Switzerland</b>. My work combines <img src="https://image.flaticon.com/icons/svg/3254/3254464.svg" width="14"/> <b>genomics</b> and high-throughput technologies with <img src="https://image.flaticon.com/icons/svg/2103/2103633.svg" width="14"/> <b>data science</b> to answer fundamental questions in <img src="https://image.flaticon.com/icons/svg/1021/1021606.svg" width="14"/> <b>biomedicine</b>. I describe myself as a generalist. However, as for every person, no single label can be sufficiently accurate. I enjoy breaking communication barriers and have an aversion to silos. I have a long-standing passion for <img src="https://image.flaticon.com/icons/svg/2970/2970624.svg" width="14"/> <b>machine learning</b> and <img src="https://image.flaticon.com/icons/svg/2920/2920349.svg" width="14"/> <b>applied statistics</b>. In particular, I find Bayesian methods closest to my mindset, interpretable and effective. I like to learn something new every day.
+<p>I'm Federico, a researcher and entrepreneur based in <img src="https://image.flaticon.com/icons/svg/321/321167.svg" width="14"/> <b>Bern, Switzerland</b>. My work combines <img src="https://image.flaticon.com/icons/svg/3254/3254464.svg" width="14"/> <b>genomics</b> and high-throughput technologies with <img src="https://image.flaticon.com/icons/svg/2103/2103633.svg" width="14"/> <b>data science</b> to answer fundamental questions in <img src="https://image.flaticon.com/icons/svg/1021/1021606.svg" width="14"/> <b>biomedicine</b>. I describe myself as a generalist but labels are not my thing. I enjoy breaking communication barriers and have an aversion to silos. I have a long-standing passion for <img src="https://image.flaticon.com/icons/svg/2970/2970624.svg" width="14"/> <b>machine learning</b> and <img src="https://image.flaticon.com/icons/svg/2920/2920349.svg" width="14"/> <b>applied statistics</b>. In particular, I find Bayesian methods closest to my mindset, interpretable and effective. I like to learn something new every day.
   
 I believe that:
 
 - Investing in people pays the highest dividends
 - The problem chooses the tool, not the other way around
+- If you follow the data blindly into the woods, you will likely walk face-first into a tree
 - Innovation requires the right mix of diversity and collaboration
 
 </p>
