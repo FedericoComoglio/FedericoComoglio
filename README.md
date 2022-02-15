@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <h3><b>About me</b></h3>
 
-<p>I'm Federico, a researcher and entrepreneur based in <img src="https://image.flaticon.com/icons/svg/321/321167.svg" width="14"/> <b>Bern, Switzerland</b>. My work combines <img src="https://image.flaticon.com/icons/svg/3254/3254464.svg" width="14"/> <b>genomics</b> and high-throughput technologies with <img src="https://image.flaticon.com/icons/svg/2103/2103633.svg" width="14"/> <b>data science</b> to answer fundamental questions in <img src="https://image.flaticon.com/icons/svg/1021/1021606.svg" width="14"/> <b>biomedicine</b>. I describe myself as a generalist. I enjoy breaking communication barriers and have an aversion to silos. I have a passion for <img src="https://image.flaticon.com/icons/svg/2970/2970624.svg" width="14"/> <b>machine learning</b> and <img src="https://image.flaticon.com/icons/svg/2920/2920349.svg" width="14"/> <b>applied statistics</b>. In particular, I find Bayesian methods interpretable and effective. I like to learn something new every day.
+<p>I'm an R developer on a mission to digitalize (re)insurance. I'm also a genomics data scientist and entrepreneur tackling fundamental questions in biomedicine. I describe myself as a generalist and I enjoy breaking communication barriers. Lifelong learner.
   
 I believe that:
 
