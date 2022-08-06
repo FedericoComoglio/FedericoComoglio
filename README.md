@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <h3><b>About me</b></h3>
 
-<p>I'm an R developer on a mission to digitalize (re)insurance. I'm also a genomics data scientist and entrepreneur tackling fundamental questions in biomedicine. I describe myself as a generalist and I enjoy breaking communication barriers. Lifelong learner.
+<p>I'm an R developer on a mission to digitalize (re)insurance. I'm also a genomics data scientist and entrepreneur tackling fundamental questions in biomedicine. A generalist who enjoys breaking communication barriers. Lifelong learner.
   
 I believe that:
 
