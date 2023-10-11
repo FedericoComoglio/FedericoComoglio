@@ -23,8 +23,6 @@ I believe that:
 
 <h3><b>Toolkit</b></h3>
 
-The core components of my daily data science toolkit are:
-
 <!--
 Icons from https://simpleicons.org/
 -->
