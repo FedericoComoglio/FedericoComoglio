@@ -10,14 +10,14 @@ Here are some ideas to get you started:
 
 <h3><b>About me</b></h3>
 
-<p>I'm an R developer on a mission to digitalize (re)insurance. I'm also a genomics data scientist and entrepreneur tackling fundamental questions in biomedicine. A generalist who enjoys breaking communication barriers. Lifelong learner.
+<p>Hi! I'm Federico, a lifelong learner on a mission to digitalize (re)insurance and advance biomedical genomics. My multidisciplinary background fosters a unique approach to problem-solving, allowing me to bridge diverse domains effortlessly. Who needs communication barriers in 2024?
   
 I believe that:
 
-- Investing in people pays the highest dividends
-- The problem chooses the tool, not the other way around
-- If you follow the data blindly into the woods, you will likely walk face-first into a tree
-- Innovation requires the right mix of diversity and collaboration
+- investing in people pays the highest dividends
+- the problem chooses the tool, not the other way around
+- if you follow the data blindly into the woods, you will likely walk face-first into a tree
+- innovation requires a fine blend of diversity and collaboration
 
 </p>
 
