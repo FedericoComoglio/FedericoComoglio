@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <h3><b>About me</b></h3>
 
-<p>Hi! I'm Federico, a lifelong learner on a mission to digitalize (re)insurance and advance biomedical genomics. My multidisciplinary background fosters a unique approach to problem-solving, allowing me to bridge diverse domains effortlessly. Who needs communication barriers in 2024?
+<p>Hi! I'm Federico, a lifelong learner on a mission to digitalize (re)insurance and advance biomedical genomics. My multidisciplinary background fosters a unique approach to problem-solving, allowing me to bridge diverse domains effortlessly. Who needs communication barriers in 2025?
   
 I believe that:
 
