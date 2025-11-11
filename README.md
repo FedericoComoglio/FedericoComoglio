@@ -10,16 +10,7 @@ Here are some ideas to get you started:
 
 <h3><b>About me</b></h3>
 
-<p>Hi! I'm Federico, a lifelong learner on a mission to digitalize (re)insurance and advance biomedical genomics. My multidisciplinary background fosters a unique approach to problem-solving, allowing me to bridge diverse domains effortlessly. Who needs communication barriers in 2025?
-  
-I believe that:
-
-- investing in people pays the highest dividends
-- the problem chooses the tool, not the other way around
-- if you follow the data blindly into the woods, you will likely walk face-first into a tree
-- innovation requires a fine blend of diversity and collaboration
-
-</p>
+<p>Hi! I'm Federico, a computational problem-solver with a rare dual expertise in genomics and quantitative finance. My strength lies in applying advanced data-driven frameworks from one industry to address novel challenges in the other. I believe in enabling diverse, collaborative teams to thrive and drive true innovation.</p>
 
 <h3><b>Toolkit</b></h3>
 
@@ -30,9 +21,8 @@ Icons from https://simpleicons.org/
 <p>
 <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img alt="SQLite" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
